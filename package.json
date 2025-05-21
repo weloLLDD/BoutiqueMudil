@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "version": "0.1.0", 
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@redux-devtools/extension": "^3.3.0",
@@ -47,6 +47,7 @@
   },
   "devDependencies": {
     "ajv": "^7.2.4",
+    "redux-devtools-extension": "^2.13.9",
     "webpack": "^5.99.8"
   }
 }
